@@ -26,3 +26,5 @@ npm install --save-dev cypress-file-upload
 Abra o arquivo **cypress/support/commands.js** e adicione a seguinte linha:
 import 'cypress-file-upload';
 
+Desafio 1: Está com nome de **Desafio API - Accenture.postman_collection.json
+Repositório Desafio API**
