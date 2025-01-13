@@ -1,0 +1,16 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+"cypress-cucumber-preprocessor": {
+  "nonGlobalStepDefinitions": true,
+  "stepDefinitions": "cypress/e2e/steps"
+}
+  }
