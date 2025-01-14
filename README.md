@@ -19,8 +19,7 @@ Usando npm:
 npm install cypress --save-dev
 
 3. Configurar o Cypress com cypress-file-upload:
-4. 
-Instalar a dependência cypress-file-upload:
+4. Instalar a dependência cypress-file-upload:
 npm install --save-dev cypress-file-upload
 
 Abra o arquivo **cypress/support/commands.js** e adicione a seguinte linha:
